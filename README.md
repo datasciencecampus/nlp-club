@@ -23,3 +23,4 @@ Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301
 - **LSTM** 
 - **eLmo (revisit)** 
 - **Bert** 
+-**Severn** 
