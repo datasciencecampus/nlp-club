@@ -13,3 +13,15 @@ Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301
 - **2019-02-06** Steve: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (source: [Stanford University](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
 - **2019-01-23** Gareth: Word Mover’s Embedding: From Word2Vec to Document Embedding (source: [aclweb](http://aclweb.org/anthology/D18-1482))
 - **2019-01-09** Thanasis: Enriching Word Vectors with Subword Information (fasttext paper; source: [arxiv](https://arxiv.org/abs/1607.04606))
+
+# Future papers 
+
+| Paper | Presenter | Date |  
+|---|---|---|---|
+Doc2Vec | Thanasis |
+Ida2Vec 
+Glove 
+CNN 
+LSTM 
+eLmo (revisit) 
+Bert 
