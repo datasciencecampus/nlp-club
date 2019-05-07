@@ -16,12 +16,10 @@ Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301
 
 # Future papers 
 
-| Paper | Presenter | Date |  
-|---|---|---|---|
-Doc2Vec | Thanasis |
-Ida2Vec 
-Glove 
-CNN 
-LSTM 
-eLmo (revisit) 
-Bert 
+- **Doc2Vec** Thanasis
+- **Ida2Vec** 
+- **Glove** 
+- **CNN** 
+- **LSTM** 
+- **eLmo (revisit)** 
+- **Bert** 
