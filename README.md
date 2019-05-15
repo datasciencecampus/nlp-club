@@ -5,7 +5,7 @@ Prior to a paper presentation please add your paper in the `papers` folder, nami
 Don't forget to check the [Wiki](https://github.com/datasciencecampus/nlp_club/wiki) for video and other references.
 
 # Past papers
--**2019-04-20** All: Review techniques we've discussed so far and summerise advantages and disadvanatages of each one  
+- **2019-04-20** All: Review techniques we've discussed so far and summerise advantages and disadvanatages of each one  
 - **2019-04-03** All: Compare and contrast embedding techniques we've reviewed so far
 - **2019-03-20** Ian: Distributed Representations of Words and Phrases and their Compositionality (word2vec follow-up paper; source: [arxiv](https://arxiv.org/abs/1310.4546))
 - **2019-03-06** Ian: Efficient Estimation of Word Representations in
