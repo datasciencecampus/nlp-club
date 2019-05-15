@@ -16,7 +16,7 @@ Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301
 
 # Future papers 
 
-- **Doc2Vec** Thanasis
+- **Doc2Vec** Thanasis: Distributed Representations of Sentences and Documents (source: (https://cs.stanford.edu/~quocle/paragraph_vector.pdf))
 - **Ida2Vec** 
 - **Glove** 
 - **CNN** 
