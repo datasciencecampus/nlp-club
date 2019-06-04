@@ -25,3 +25,4 @@ Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301
 - **eLmo (revisit)** 
 - **Bert** 
 - **Severn** 
+- [On the dimensionality of Word Embeddings](https://arxiv.org/abs/1812.04224) (how many dimensions are required?)
