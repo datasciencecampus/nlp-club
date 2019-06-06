@@ -26,3 +26,4 @@ Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301
 - **Bert** 
 - **Severn** 
 - [On the dimensionality of Word Embeddings](https://arxiv.org/abs/1812.04224) (how many dimensions are required?)
+- [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) (source: Journal Machine Learning Research)
