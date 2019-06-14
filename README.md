@@ -17,13 +17,14 @@ Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301
 
 # Future papers 
 
-- **2019-06-12** Thanasis: Distributed Representations of Sentences and Documents (Doc2Vec paper; source: [Stanford University](https://cs.stanford.edu/~quocle/paragraph_vector.pdf))
-- **Ida2Vec** 
-- **Glove** 
-- **CNN** 
-- **LSTM** 
-- **eLmo (revisit)** 
-- **Bert** 
+- **2019-06-26** Distributed Representations of Sentences and Documents (Doc2Vec paper; source: [Stanford University](https://cs.stanford.edu/~quocle/paragraph_vector.pdf))
+- **2019-07-10** Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec (Ida2Vec paper; source: [arxiv](https://arxiv.org/abs/1605.02019))
+- **2019-07-24** GloVe: Global Vectors forWord Representation (GloVe paper; source: [Stanford University](https://nlp.stanford.edu/pubs/glove.pdf))
+- **CNN** Understanding Convolutional Neural Networks for Text Classification (CNN paper; source: [aclweb](https://www.aclweb.org/anthology/W18-5408))
+- **LSTM** An LSTM Approach to Short Text Sentiment Classification with
+Word Embeddings (LSTM paper; source: [aclweb](https://www.aclweb.org/anthology/O18-1021))
+- **eLmo (revisit)** Deep contextualized word representations (ELMo paper; source: [arxiv](https://arxiv.org/pdf/1802.05365.pdf))
+- **Bert** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Bert paper; source: [arxiv](https://arxiv.org/abs/1810.04805))
 - **Severn** 
 - [On the dimensionality of Word Embeddings](https://arxiv.org/abs/1812.04224) (how many dimensions are required?)
 - [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) (source: Journal Machine Learning Research)
