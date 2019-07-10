@@ -17,9 +17,7 @@ Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301
 - **2019-06-26** Distributed Representations of Sentences and Documents (Doc2Vec paper; source: [Stanford University](https://cs.stanford.edu/~quocle/paragraph_vector.pdf))
 
 # Future papers 
-
-- **2019-07-10** Latent Dirichlet Allocation (LDA paper; source: [Stanford](https://ai.stanford.edu/~ang/papers/nips01-lda.pdf))
-- **2019-07-24** Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec (Lda2Vec paper; source: [arxiv](https://arxiv.org/abs/1605.02019))
+- **2019-07-24** Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec (Lda2Vec paper; source: [arxiv](https://arxiv.org/abs/1605.02019)) and Latent Dirichlet Allocation (LDA paper; source: [Stanford](https://ai.stanford.edu/~ang/papers/nips01-lda.pdf))
 - **2019-08-07** GloVe: Global Vectors for Word Representation (GloVe paper; source: [Stanford University](https://nlp.stanford.edu/pubs/glove.pdf))
 - **CNN** Understanding Convolutional Neural Networks for Text Classification (CNN paper; source: [aclweb](https://www.aclweb.org/anthology/W18-5408))
 - **LSTM** An LSTM Approach to Short Text Sentiment Classification with
