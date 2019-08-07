@@ -28,3 +28,4 @@ Word Embeddings (LSTM paper; source: [aclweb](https://www.aclweb.org/anthology/O
 - **Severn** 
 - [On the dimensionality of Word Embeddings](https://arxiv.org/abs/1812.04224) (how many dimensions are required?)
 - [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) (source: Journal Machine Learning Research)
+- **Google Universal Sentence Embedding** (Universal Sentence encoder; source: [Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46808.pdf) 
