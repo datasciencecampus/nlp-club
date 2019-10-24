@@ -4,22 +4,24 @@ Prior to a paper presentation please add your paper in the `papers` folder, nami
 
 Don't forget to check the [Wiki](https://github.com/datasciencecampus/nlp_club/wiki) for video and other references.
 
-# Past papers
-- **2019-07-31** Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec (Lda2Vec paper; source: [arxiv](https://arxiv.org/abs/1605.02019))
-- **2019-07-24** Latent Dirichlet Allocation (LDA paper; source: [Stanford](https://ai.stanford.edu/~ang/papers/nips01-lda.pdf))
-- **2019-06-26** Distributed Representations of Sentences and Documents (Doc2Vec paper; source: [Stanford University](https://cs.stanford.edu/~quocle/paragraph_vector.pdf))
-- **2019-05-01** All: Review techniques we've discussed so far and summerise advantages and disadvanatages of each one  
-- **2019-04-03** All: Compare and contrast embedding techniques we've reviewed so far
-- **2019-03-20** Ian: Distributed Representations of Words and Phrases and their Compositionality (word2vec follow-up paper; source: [arxiv](https://arxiv.org/abs/1310.4546))
-- **2019-03-06** Ian: Efficient Estimation of Word Representations in
-Vector Space (word2vec initial paper; source: [arxiv](https://arxiv.org/pdf/1301.3781.pdf))
-- **2019-02-20** Art: Deep contextualized word representations (ELMo paper; source: [arxiv](https://arxiv.org/pdf/1802.05365.pdf))
-- **2019-02-06** Steve: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (source: [Stanford University](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf))
-- **2019-01-23** Gareth: Word Mover’s Embedding: From Word2Vec to Document Embedding (source: [aclweb](http://aclweb.org/anthology/D18-1482))
-- **2019-01-09** Thanasis: Enriching Word Vectors with Subword Information (fasttext paper; source: [arxiv](https://arxiv.org/abs/1607.04606))
+# Past Papers
+
+| Date | Title of paper | Source |
+|------|----------------|--------|
+|2019-01-09|Enriching Word Vectors with Subword Information | [aclweb](http://aclweb.org/anthology/D18-1482) |
+|2019-01-23|Word Mover’s Embedding: From Word2Vec to Document Embedding| [aclweb](http://aclweb.org/anthology/D18-1482) |
+|2019-02-06|Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank| [Stanford University](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)|
+|2019-02-20|Deep contextualized word representations|[arxiv](https://arxiv.org/pdf/1802.05365.pdf)|
+|2019-03-06|Efficient Estimation of Word Representations in Vector Space|[arxiv](https://arxiv.org/pdf/1301.3781.pdf)|
+|2019-03-20|Distributed Representations of Words and Phrases and their Compositionality|[arxiv](https://arxiv.org/abs/1310.4546)|
+|2019-06-26|Distributed Representations of Sentences and Documents|[Stanford University](https://cs.stanford.edu/~quocle/paragraph_vector.pdf) |
+|2019-07-24|Latent Dirichlet Allocation|[Stanford](https://ai.stanford.edu/~ang/papers/nips01-lda.pdf)|
+|2019-07-31|Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec|[arxiv](https://arxiv.org/abs/1605.02019)|
+|2019-09-18|GloVe: Global Vectors for Word Representation| [Stanford University](https://nlp.stanford.edu/pubs/glove.pdf)|
+|2019-10-03|Algorithms for Non-negative Matrix Factorization| [paper](https://papers.nips.cc/paper/1861-algorithms-for-non-negative-matrix-factorization.pdf)|
+|2019-10-23| Effective Approaches to Attention-based Neural Machine Translation| [arxiv] (https://arxiv.org/pdf/1508.04025.pdf)
 
 # Future papers 
-- **2019-08-21** GloVe: Global Vectors for Word Representation (GloVe paper; source: [Stanford University](https://nlp.stanford.edu/pubs/glove.pdf))
 - **CNN** Understanding Convolutional Neural Networks for Text Classification (CNN paper; source: [aclweb](https://www.aclweb.org/anthology/W18-5408))
 - **LSTM** An LSTM Approach to Short Text Sentiment Classification with
 Word Embeddings (LSTM paper; source: [aclweb](https://www.aclweb.org/anthology/O18-1021))
