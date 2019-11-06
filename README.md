@@ -1,8 +1,12 @@
+# This is the NLP Group GitHub Repository. 
+
+You will be able to find papers we have discussed, useful links and resources and a summary table of benefits and drawbacks there are to using some of these methodologies here.  
+
 # Papers
 
 Prior to a paper presentation please add your paper in the `papers` folder, naming the PDF after its title ( <title.pdf> ) so we have a copy and make sure we do not present the same paper twice.
 
-Don't forget to check the [Wiki](https://github.com/datasciencecampus/nlp_club/wiki) for video and other references.
+Don't forget to check the [Wiki](https://github.com/datasciencecampus/nlp_club/wiki) for videos and references.
 
 # Past Papers
 
