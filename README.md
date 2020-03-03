@@ -24,7 +24,6 @@ Don't forget to check the [Wiki](https://github.com/datasciencecampus/nlp_club/w
 |2019-09-18|GloVe: Global Vectors for Word Representation| [Stanford University](https://nlp.stanford.edu/pubs/glove.pdf)|
 |2019-10-03|Algorithms for Non-negative Matrix Factorization| [paper](https://papers.nips.cc/paper/1861-algorithms-for-non-negative-matrix-factorization.pdf)|
 |2019-10-23| Effective Approaches to Attention-based Neural Machine Translation| [arxiv](https://arxiv.org/pdf/1508.04025.pdf)|
-
 |2020-02-12| Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks| [arxiv](https://arxiv.org/abs/1908.10084)|
 |2020-02-26| XLNet: Generalized Autoregressive Pretraining for Language Understanding| [arxiv](https://arxiv.org/pdf/1906.08237.pdf))|
 
